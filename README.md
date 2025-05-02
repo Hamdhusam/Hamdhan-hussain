@@ -100,16 +100,6 @@
 ---
 
 
-
-
-## 💬 **Philosophy**  
-> "Technology is the tool, creativity is the spark, and vision is the guide."  
-
-I believe in the power of innovation—where technology and creativity converge to make the impossible possible. The journey may be long, but with each step, I move closer to creating something impactful that will inspire others.
-
----
-
-
 ## 🤝 **Let’s Connect & Collaborate!**  
 - 🌐 **Portfolio🫴**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
 - 📧 **Email**: [vishalmurugan006@gmail.com](mailto:vishalmurugan006@gmail.com)  
